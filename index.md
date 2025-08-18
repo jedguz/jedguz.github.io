@@ -1,7 +1,10 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
+
+test! 
+
 
 Welcome! I am **Jed Guzelkabaagac**, an MSc student in *Mathematics in Data Science* at the Technical University of Munich (TUM) and a research scholar with the Konrad Zuse School of Excellence in Reliable AI (relAI).  
 
