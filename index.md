@@ -23,4 +23,4 @@ My research focuses on **generative models, robustness, uncertainty estimation, 
 - **Self-Supervised Learning for Robot Grasping** — JEPA pretraining on 3D point clouds to improve grasp success in low-label regimes.  
 - **AI-Driven RNA Drug Discovery** — geometric deep learning for RNA–ligand interaction prediction.  
 
-👉 See the [Projects](/portfolio/) page for posters, reports, and slides.
+👉 See the [Portfolio](/portfolio/) page for posters, reports, and slides.
