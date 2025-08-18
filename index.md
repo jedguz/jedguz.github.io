@@ -11,9 +11,9 @@ Welcome! I am **Jed Guzelkabaagac**, an MSc student in *Mathematics in Data Scie
 My research focuses on **generative models, robustness, uncertainty estimation, and graph learning**, with applications to scientific discovery and trustworthy AI.  
 
 - 📄 [CV](/files/cv.pdf)  
-- 📚 [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)  
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=leZriSMAAAAJ&hl=en)  
 - 💻 [GitHub](https://github.com/jedguz)  
-- ✉️ [Email](mailto:guzelkab@ualberta.ca)  
+- ✉️ [Email](mailto:jed.guzelkabaagac@tum.de)  
 
 ---
 
