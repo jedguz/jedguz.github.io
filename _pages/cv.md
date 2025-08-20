@@ -4,7 +4,7 @@ permalink: /cv/
 layout: single
 ---
 
-📄 You can also **[download the PDF version here](/files/cv.pdf)**.
+📄 You can also **[download the PDF version here](/files/CV.pdf)**.
 
 ---
 
