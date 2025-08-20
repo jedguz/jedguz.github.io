@@ -1,7 +1,8 @@
 ---
 title: "Understanding Bayesian Flow Networks"
 collection: portfolio
-date: 2025-08-01
+date: 2025-03-01
+display-date: "February 2025"
 permalink: /portfolio/bayesian-flow-networks
 excerpt: "Explainer of Bayesian Flow Networks (BFNs).<br/><img src='/images/bfn_img.png'>"
 mathjax: true

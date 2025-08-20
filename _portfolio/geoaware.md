@@ -1,7 +1,8 @@
 ---
 title: "GeoAware3D — Geometry-Aware 3D Semantic Features"
 collection: portfolio
-date: 2025-08-01
+date: 2024-08-01
+display-date: "August 2024"
 permalink: /portfolio/geoaware3d
 excerpt: "Zero-shot, class-agnostic 3D feature decoration by fusing Stable Diffusion + DINO via multi-view projection/unprojection; fast correspondence on SHREC’19.<br/><img src='/images/diff3f.png'>"
 ---
