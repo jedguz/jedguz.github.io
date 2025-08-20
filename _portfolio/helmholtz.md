@@ -1,5 +1,5 @@
 ---
-title: "AI-Driven RNA Drug Discovery — TUM Data Innovation Lab × Helmholtz"
+title: "AI-Driven RNA Drug Discovery — TUM Data Innovation Lab & Helmholtz Institute of Computational Biology"
 collection: portfolio
 date: 2025-04-30
 display-date: "April 2025"
