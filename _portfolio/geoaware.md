@@ -7,6 +7,11 @@ permalink: /portfolio/geoaware3d
 excerpt: "Zero-shot, class-agnostic 3D feature decoration by fusing Stable Diffusion + DINO via multi-view projection/unprojection; fast correspondence on SHREC’19.<br/><img src='/images/diff3f.png'>"
 ---
 
+**Resources:**  
+- [🖼️ Poster](/files/geoaware_poster.pdf)  
+- [📑 Report](/files/geoaware_report.pdf)
+
+
 **Summary.** We propose **GeoAware3D**, a zero-shot, class-agnostic method to decorate meshes/point clouds with **geometry-aware semantic features**. **We modify the structure of DIFF3F** to (i) render multi-view images, (ii) add texture via **ControlNet-guided** diffusion, (iii) fuse **Stable Diffusion + DINO** features, and (iv) **unproject** per-pixel descriptors back to 3D, aggregating with \(k\)-NN mean to obtain vertex/point-wise features. No training or extra data required.
 
 ### Highlights
@@ -31,7 +36,3 @@ excerpt: "Zero-shot, class-agnostic 3D feature decoration by fusing Stable Diffu
 3. **Fuse** SD + DINO features (geometry-aware aggregation).  
 4. **Unproject** per-pixel features to 3D with depth + intrinsics \(K\); build a point cloud of descriptors.  
 5. **Aggregate** to vertices via \(k\)-NN mean; compute cosine-similarity correspondences (vertex- or point-level).
-
-**Resources:**  
-- [🖼️ Poster](/files/geoaware_poster.pdf)  
-- [📑 Report](/files/geoaware_report.pdf)

@@ -7,6 +7,10 @@ permalink: /portfolio/robot-grasping
 excerpt: "Investigating JEPA pretraining on point clouds to improve grasp success in low-label regimes.<br/><img src='/images/grasping_pipeline.png'>"
 ---
 
+**Resources:**  
+- [🖼️ Poster](/files/grasping_poster.pdf)  
+- [📑 Report](/files/grasping_report.pdf)
+
 **Summary.** On the **DLR–Hand II** platform, we fine-tune a **Point–JEPA** backbone on spatially sequenced point clouds and predict grasp joint angles with a **multi-hypothesis head**. JEPA pretraining consistently improves **top-logit RMSE** in low-label regimes and boosts **coverage@15°**, with parity at 100% labels. :contentReference[oaicite:0]{index=0}
 
 ### Highlights
@@ -30,9 +34,5 @@ excerpt: "Investigating JEPA pretraining on point clouds to improve grasp succes
 3. **Pool** contextualized patch features → global object embedding.  
 4. **Predict** K joint-angle hypotheses + logits given object embedding + wrist pose.  
 5. **Train** with WTA / min-over-K + cross-entropy on the winning hypothesis; **infer** with top-logit.
-
-**Resources:**  
-- [🖼️ Poster](/files/grasping_poster.pdf)  
-- [📑 Report](/files/grasping_report.pdf)
 
 **Status:** *Aiming for workshop submission (in progress).* 
