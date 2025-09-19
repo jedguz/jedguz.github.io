@@ -1,8 +1,8 @@
 ---
 title: "Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: conferences
+permalink: /publication/2025-07-01-privacy-amp
 excerpt: "ICML 2025 Spotlight. Structured subsampling for DP time-series; tight event- and user-level guarantees; empirical validation."
 date: 2025-07-01
 venue: "International Conference on Machine Learning (ICML) — Spotlight"
