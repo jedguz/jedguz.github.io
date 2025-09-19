@@ -3,13 +3,12 @@ title: "Privacy Amplification by Structured Subsampling for Deep Differentially 
 collection: publications
 category: conferences
 permalink: /publication/2025-07-01-privacy-amp
-excerpt: "ICML 2025 Spotlight. Structured subsampling for DP time-series; tight event- and user-level guarantees; empirical validation."
+excerpt: "Structured subsampling for DP time-series; tight event- and user-level guarantees; empirical validation."
 date: 2025-07-01
-venue: "International Conference on Machine Learning (ICML) — Spotlight"
+venue: "International Conference on Machine Learning (ICML)"
 paperurl: "https://arxiv.org/abs/2502.02410"
 #publisherurl: "https://icml.cc/virtual/2025/poster/44722"
-#openreview: "https://openreview.net/forum?id=bkauyuzBN4"
-citation: "Schuchardt, J., et al. (2025). Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting. ICML 2025 (Spotlight)."
+#openreview: "https://openreview.net/forum?id=bkauyuzBN4"#citation: "Schuchardt, J., et al. (2025). Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting. ICML 2025 (Spotlight)."
 ---
 We analyze why standard DP-SGD amplification assumptions break for forecasting—where batches come from (i) sampling series, (ii) contiguous subsequences, (iii) context/forecast splits—and provide tight event- and user-level guarantees via **structured subsampling**. We also prove amplification from sequence-model augmentation and validate empirically.
 
