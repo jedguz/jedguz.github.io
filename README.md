@@ -7,7 +7,7 @@ Personal research website at https://jedml.com/, hosted on GitHub Pages from the
 - index.html: biography, affiliations, and publications.
 - projects/index.html: research projects and code.
 - blog/index.html: blog landing page; no posts published yet.
-- assets/style.css: shared styling and responsive layouts.
+- assets/site.css: shared styling and responsive layouts.
 - assets/portrait-sdr.jpg: 1200 × 1600 sRGB JPEG derived from the SDR base image of the original Display P3 MPO. It preserves the full frame, omits the HDR gain map and EXIF metadata, and uses an embedded sRGB profile. The original remains assets/portrait-oxford.jpeg.
 
 Preview: python -m http.server 8765 --bind 127.0.0.1
